@@ -1,1 +1,4 @@
 test git
+https://YangBiao@bitbucket.org/vwms/wave.git
+https://YangBiao@bitbucket.org/vwms/wave.git
+git@bitbucket.org:vwms/wave.git
